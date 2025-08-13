@@ -31,17 +31,16 @@
 
 
 
-
 ## 📃 [PROJECT]
 
 **Recovery : 뇌졸증 환자 재활 보조 애플리케이션**
 
-- ERD 설계, API 서버 배포 
+- API 서버 배포 경험
 
 **옷 쇼핑몰 제작**
 
-- 이력 관리, 인덱스를 고려한 ERD 설계 - 회원, 주문, 반품, 환불
-
+- 이력 관리, 인덱스를 고려한 ERD 설계 경험 - 회원, 주문, 반품, 환불
+- Git을 활용한 협업 경험
 
 
 ## 💻 [SKILLS]
@@ -54,9 +53,12 @@
 
 - language qualification : OPIC IH
 
+## [Blog](https://moset1.github.io/)
+
 ## 🎭 [Algorithm]
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmose98)](https://solved.ac/kimmose98/)
+
 
 
 
